@@ -153,10 +153,9 @@ _Thiago Jesus Dias_
 <div align="center">
 
   <h3 align="center">
-    <img src="img/look_oh.png" width="50" style="vertical-align: middle; margin-right: 25px;" alt="cat image" />
-    <img src="img/lookup-sbq.png" width="50" style="vertical-align: middle; margin-right: 25px;" alt="cat image" />
-    <img src="img/monkey_look.png" width="50" style="vertical-align: middle;" alt="cat image" />
-
+       <img src="img/look_oh.png" width="50" alt="cat image">&nbsp;&nbsp;&nbsp;&nbsp;
+       <img src="img/lookup-sbq.png" width="50" alt="cat image">&nbsp;&nbsp;&nbsp;&nbsp;
+       <img src="img/monkey_look.png" width="50" alt="cat image">
    </h3>
    <img src="https://visitor-badge.laobi.icu/badge?page_id=Jegro777.Jegro777&config=%7B%22scale%22%3A1.5%7D" />
 </div>
