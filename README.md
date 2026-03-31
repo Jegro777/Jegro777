@@ -30,7 +30,7 @@
      RIGHT : profile photo placeholder
      ─────────────────────────────────────────────────────────── -->
 
-<div>
+<div align="center">
 
 <table width="100%" border="0" cellspacing="12" cellpadding="10">
 <tr>
@@ -62,7 +62,9 @@
 <img src="img/animation_eu_minecraft.png" width="200" alt="My Image" />
 
 <table width="100%">
+</table>
 
+</div>
 <!-- NOME E SOCIAL MEDIAS ABAIXO DA FOTO -->
 
 _Thiago Jesus Dias_
