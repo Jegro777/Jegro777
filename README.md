@@ -90,9 +90,9 @@ _Thiago Jesus Dias_
 <!-- TECH ECOSYSTEM DOG AND CAT -->
 
 <h2 align="center">
-  <img src="img/dog_running.gif" width="60" style="vertical-align: middle;" alt="cat image" />
+  <img src="img/dog_running.gif" width="60" align="middle" alt="dog running" />
   Tech Ecosystem
-  <img src="img/cat_tapping.gif" width="50" style="vertical-align: middle;" alt="cat image" />
+  <img src="img/cat_tapping.gif" width="50" align="middle" alt="cat tapping" />
 </h2>
 
 ###
