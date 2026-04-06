@@ -159,5 +159,5 @@ _Thiago Jesus Dias_
        <img src="img/lookup-sbq.png" width="50" alt="cat image">&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="img/monkey_look.png" width="50" alt="cat image">
    </h3>
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=Jegro777.Jegro777&config=%7B%22scale%22%3A1.5%7D" />
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=Jegro777.Jegro777&left_color=darkviolet&right_color=darkorchid&left_text=Visualiza%C3%A7%C3%B5es%20no%20perfil:" width="170" />
 </div>
