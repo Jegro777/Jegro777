@@ -70,22 +70,21 @@
 _Thiago Jesus Dias_
 <br/>
 
-<a href="https://www.linkedin.com/in/thiago-jesus-data" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo" />
-      </a>
-      <a href="https://www.instagram.com/jegro_data?igsh=MWp3aGR4eWxlYzh1Mw%3D%3D" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram logo" />
-      </a>
-      <a href="https://www.youtube.com/@Jegro777" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="35" alt="youtube logo" />
-      </a>
-      <a href="mailto:thiago13jesusdias@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="35" alt="gmail logo" />
-      </a>
-</td>
+<table align="center" border="0" cellspacing="0" cellpadding="6">
+<tr>
+     
+<td><a href="https://www.linkedin.com/in/thiago-jesus-data" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin" /></a></td>
+
+<td><a href="mailto:thiago13jesusdias@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="35" alt="gmail" /></a></td>
+       
+<td><a href="https://www.instagram.com/jegro_data?igsh=MWp3aGR4eWxlYzh1Mw%3D%3D" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram" /></a></td>
+
+<td><a href="https://www.youtube.com/@Jegro777" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="35" alt="youtube" /></a></td>
+
 </tr>
 </table>
 </table>
+
 
 <!-- TECH ECOSYSTEM DOG AND CAT -->
 
