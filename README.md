@@ -5,7 +5,9 @@
 
 <!-- ─── HERO BANNER ─────────────────────────────────────────── -->
 
+<!--
 ![Header](./github-header-banner.png)
+-->
 
 <div align="center">
 
