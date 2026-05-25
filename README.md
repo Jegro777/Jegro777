@@ -141,13 +141,21 @@ _Thiago Jesus Dias_
 
 ---
 
-<!-- PACMAN CONTRIBUCTION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
+<!-- PACMAN CONTRIBUCTION(hiden) -->
+
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jegro777/Jegro777/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jegro777/Jegro777/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jegro777/Jegro777/output/pacman-contribution-graph.svg">
-</picture>
+</picture> 
+-->
 
 <!-- PROFILE VIEWS - EMOJIS -->
 
