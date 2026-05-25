@@ -45,8 +45,8 @@
 |                  |                                              |
 | ---------------- | -------------------------------------------- |
 | 💼 **Role**      | Data Scientist - Software Developer          |
-| 📍 **Location**  | Brasil - São Paulo                           |
-| 🧠 **Learning**  | Artificial Intelligence & Machine Learning   |
+| 📍 **Location**   | Brasil - São Paulo                           |
+| 🧠 **Learning**  | AWS Cloud & Machine Learning   |
 | 🚀 **Currently** | Exploring Data Structures & Algorithms       |
 | 🌱 **Fun fact**  | I'm a Scout! and I LOVE nature!              |
 | 📬 **Email**     | thiago13jesusdias@gmail.com                  |
