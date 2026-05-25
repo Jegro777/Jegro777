@@ -62,28 +62,27 @@
 <td width="45%" valign="middle" align="center">
 
 <!-- my photo/ gif -->
+<div align="center">
 
-<img src="img/animation_eu_minecraft.png" width="200" alt="My Image" />
+  <img src="img/animation_eu_minecraft.png" width="200" alt="Thiago Jesus Dias" />
+  <br/>
+  
+  <em>Thiago Jesus Dias</em>
+  <br/><br/>
 
-<table width="100%">
-</table>
-
+  <a href="https://www.linkedin.com/in/thiago-jesus-data" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin" />
+  </a>
+  <a href="mailto:thiago13jesusdias@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="35" alt="gmail" />
+  </a>
+  <a href="https://www.instagram.com/jegro_data?igsh=MWp3aGR4eWxlYzh1Mw%3D%3D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram" />
+  </a>
+  <a href="https://www.youtube.com/@Jegro777" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="35" alt="youtube" />
+  </a>
 </div>
-<!-- NOME E SOCIAL MEDIAS ABAIXO DA FOTO -->
-
-_Thiago Jesus Dias_
-<br/>
-
-<table align="center" border="0" cellspacing="0" cellpadding="6">
-<tr>
-     
-<td><a href="https://www.linkedin.com/in/thiago-jesus-data" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin" /></a></td>
-
-<td><a href="mailto:thiago13jesusdias@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="35" alt="gmail" /></a></td>
-       
-<td><a href="https://www.instagram.com/jegro_data?igsh=MWp3aGR4eWxlYzh1Mw%3D%3D" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram" /></a></td>
-
-<td><a href="https://www.youtube.com/@Jegro777" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="35" alt="youtube" /></a></td>
 
 </tr>
 </table>
