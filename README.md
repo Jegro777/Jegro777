@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<table width="200" border="0" cellspacing="12" cellpadding="10">
+<table width="100%" border="0" cellspacing="12" cellpadding="10">
 <tr>
 <td width="55%" valign="middle">
 
@@ -50,7 +50,7 @@
 | 🚀 **Explorando**  | Estruturas de Dados & Algoritmos                              |
 | 🌱 **Curiosidade** | Sou escoteiro e apaixonado pela natureza!                     |
 | 📬 **E-mail**      | thiago13jesusdias@gmail.com                                   |
-| 💬 **Mantra**      | _"Dados são apenas histórias esperando para serem contadas."_ |
+| 💬 **Mantra**      | _"Dados são histórias esperando serem contadas."_             |
 
 <!-- GITHUB STREAK DENTRO DA TABLE -->
 
