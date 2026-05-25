@@ -118,7 +118,7 @@ _Thiago Jesus Dias_
 
 <table>
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" height="40">
       <h3>💻 Linguagens & Web</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
       <img width="12" />
@@ -128,7 +128,7 @@ _Thiago Jesus Dias_
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" height="40">
       <h3>🧠 Dados & Inteligência Artificial</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
       <img width="12" />
@@ -142,7 +142,7 @@ _Thiago Jesus Dias_
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" height="40">
       <h3>☁️ Cloud & Infraestrutura</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo" />
       <img width="12" />
@@ -151,28 +151,27 @@ _Thiago Jesus Dias_
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-    </td>
-    <td align="center" valign="top" width="50%">
+    </td>   
+    <td align="center" valign="top" height="40">
       <h3>⚙️ Ferramentas & Controle de Versão</h3>
-
-    
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
+       <img width="12" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+       <img width="12" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+       <img width="12" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+       <img width="12" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+       <img width="12" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+       <img width="12" />
+       <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+       <img width="12" />
+       <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+     </td>
+  </tr>
 </table>
-
+</div>
 
 <!-- PACMAN CONTRIBUCTION(hiden) -->
 
