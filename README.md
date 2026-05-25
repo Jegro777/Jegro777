@@ -42,15 +42,15 @@
 
 ### 👨🏾‍💻〔 Sobre Mim 〕
 
-|                  |                                              |
-| ---------------- | -------------------------------------------- |
-| 💼 **Atuação**      | Cientista de Dados & Desenvolvedor de Software          |
-| 📍 **Localização**  | Brasil - São Paulo                           |
-| 🧠 **Aprimorando**  | AWS Cloud & Machine Learning   |
-| 🚀 **Explorando** | Estruturas de Dados & Algoritmos       |
-| 🌱 **Curiosidade**  | Sou escoteiro e apaixonado pela natureza!              |
-| 📬 **E-mail**     | thiago13jesusdias@gmail.com                  |
-| 💬 **Mantra**    | _"Dados são apenas histórias esperando para serem contadas."_ |
+|                    |                                                               |
+| ------------------ | ------------------------------------------------------------- |
+| 💼 **Atuação**     | Cientista de Dados & Desenvolvedor de Software                |
+| 📍 **Localização** | Brasil - São Paulo                                            |
+| 🧠 **Aprimorando** | AWS Cloud & Machine Learning                                  |
+| 🚀 **Explorando**  | Estruturas de Dados & Algoritmos                              |
+| 🌱 **Curiosidade** | Sou escoteiro e apaixonado pela natureza!                     |
+| 📬 **E-mail**      | thiago13jesusdias@gmail.com                                   |
+| 💬 **Mantra**      | _"Dados são apenas histórias esperando para serem contadas."_ |
 
 <!-- GITHUB STREAK DENTRO DA TABLE -->
 
@@ -139,12 +139,13 @@ _Thiago Jesus Dias_
     </td>
     <td align="center" valign="top" width="50%">
       <h3>⚙️ Ferramentas & Controle de Versão</h3>
-<a href="https://skillicons.dev">
+      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode,figma,arduino,git,github" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="45" alt="trello logo"  />
-</div>
+    </td>
+  </tr>
 </table>
-
+</div>
 
 <!-- PACMAN CONTRIBUCTION(hiden) -->
 
@@ -153,7 +154,7 @@ _Thiago Jesus Dias_
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jegro777/Jegro777/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jegro777/Jegro777/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jegro777/Jegro777/output/pacman-contribution-graph.svg">
-</picture> 
+</picture>
 -->
 
 ---
