@@ -9,11 +9,13 @@
 ![Header](./github-header-banner.png)
 -->
 
+[**English version // Versão em inglês**](README-eng.md)
+
 <div align="center">
 
 <!-- HEY, NICE SEE YOU (WITH EMOJI) -->
 
-  <h1 ><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+  <h1 ><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, Prazer em te ver por aqui!</h1>
 
 </div>
 
@@ -38,17 +40,17 @@
 <tr>
 <td width="55%" valign="middle">
 
-### 👨🏾‍💻〔 About Me 〕
+### 👨🏾‍💻〔 Sobre Mim 〕
 
 |                  |                                              |
 | ---------------- | -------------------------------------------- |
-| 💼 **Role**      | Data Scientist - Software Developer          |
-| 📍 **Location**  | Brasil - São Paulo                           |
-| 🧠 **Learning**  | Artificial Intelligence & Machine Learning   |
-| 🚀 **Currently** | Exploring Data Structures & Algorithms       |
-| 🌱 **Fun fact**  | I'm a Scout! and I LOVE nature!              |
-| 📬 **Email**     | thiago13jesusdias@gmail.com                  |
-| 💬 **Mantra**    | _"Data is just stories waiting to be told."_ |
+| 💼 **Atuação**      | Cientista de Dados & Desenvolvedor de Software          |
+| 📍 **Localização**  | Brasil - São Paulo                           |
+| 🧠 **Aprimorando**  | AWS Cloud & Machine Learning   |
+| 🚀 **Explorando** | Estruturas de Dados & Algoritmos       |
+| 🌱 **Curiosidade**  | Sou escoteiro e apaixonado pela natureza!              |
+| 📬 **E-mail**     | thiago13jesusdias@gmail.com                  |
+| 💬 **Mantra**    | _"Dados são apenas histórias esperando para serem contadas."_ |
 
 <!-- GITHUB STREAK DENTRO DA TABLE -->
 
@@ -87,6 +89,12 @@ _Thiago Jesus Dias_
 </table>
 </table>
 
+<div align = "center">
+  
+## Minhas contribuições:
+
+</div>
+
 <!-- SNAKE CONTRIBUCTION -->
 
 <picture>
@@ -99,14 +107,56 @@ _Thiago Jesus Dias_
 
 <h2 align="center">
   <img src="img/dog_running.gif" width="60" align="middle" alt="dog running" />
-  Tech Ecosystem
+  Minha Stack
   <img src="img/cat_tapping.gif" width="50" align="middle" alt="cat tapping" />
 </h2>
 
 ###
 
 <!-- TECHNOLOGIES -->
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>💻 Linguagens & Web</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>🧠 Dados & Inteligência Artificial</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>☁️ Cloud & Infraestrutura</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>⚙️ Ferramentas & Controle de Versão</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/dev
+
+      
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
