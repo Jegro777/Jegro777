@@ -118,12 +118,12 @@ _Thiago Jesus Dias_
 
 <table>
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" height="40">
       <h3>💻 Linguagens & Web</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=py,js,react,html,css" />
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" height="40">
       <h3>🧠 Dados & Inteligência Artificial</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python,pytorch" />
@@ -132,7 +132,7 @@ _Thiago Jesus Dias_
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" height="40">
       <h3>☁️ Cloud & Infraestrutura</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=aws,azure,linux,mysql" />
