@@ -44,7 +44,7 @@
 
 |                    |                                                               |
 | ------------------ | ------------------------------------------------------------- |
-| 💼 **Atuação**     | Cientista de Dados & Desenvolvedor de Software                |
+| 💼 **Atuação**     | Engenheiro de Dados & Desenvolvedor de Software                |
 | 📍 **Localização** | Brasil - São Paulo                                            |
 | 🧠 **Aprimorando** | AWS Cloud & Machine Learning                                  |
 | 🚀 **Explorando**  | Estruturas de Dados & Algoritmos                              |
