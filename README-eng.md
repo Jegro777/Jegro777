@@ -44,7 +44,7 @@
 
 |                  |                                              |
 | ---------------- | -------------------------------------------- |
-| 💼 **Role**      | Data Scientist - Software Developer          |
+| 💼 **Role**      | Data Engineer - Software Developer          |
 | 📍 **Location**   | Brasil - São Paulo                           |
 | 🧠 **Learning**  | AWS Cloud & Machine Learning   |
 | 🚀 **Currently** | Exploring Data Structures & Algorithms       |
